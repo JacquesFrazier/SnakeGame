@@ -1,0 +1,1 @@
+In this respository, I have created the classic Snake Game. In the practice SnakeGame, I was just practicing the fundementals of how to build the game, but here it is complete. The only problem I will say is that I didn't add an heading element called "Snake Game" in the HTML file. Besides that the game is amazing, I hope you enjoy playing.
